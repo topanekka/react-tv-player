@@ -14,7 +14,7 @@ export type MediaType = {
 
 const mediaList: MediaType[] = [
   {
-    url: "https://www.youtube.com/watch?v=SkVqJ1SGeL0",
+    url: "https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8",
     title: "YouTube Video Sample",
     subTitle: "Caminandes 3: Llamigos",
     preview: true,
